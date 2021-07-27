@@ -5,7 +5,6 @@ go 1.16
 require (
 	github.com/abiosoft/semaphore v0.0.0-20180811165425-cb737ff681bd
 	github.com/advancedlogic/GoOse v0.0.0-20210708011750-e3d1acc33807
-	github.com/timmytune/go-freeling v0.0.0-20190816150524-d4c3d0731524
 	github.com/cheggaaa/pb v1.0.29
 	github.com/fatih/color v1.12.0
 	github.com/fatih/set v0.2.1

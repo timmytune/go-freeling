@@ -4,8 +4,6 @@ github.com/abiosoft/semaphore v0.0.0-20180811165425-cb737ff681bd h1:uk27QHZe1wdJ
 github.com/abiosoft/semaphore v0.0.0-20180811165425-cb737ff681bd/go.mod h1:Kqn7/fS2RMB9yaSd1KegoEtuugHW0P9Ia/cJyAmECNw=
 github.com/advancedlogic/GoOse v0.0.0-20210708011750-e3d1acc33807 h1:qKaWr5oCUAdOf/hMmpC80vS5W76zgK5KpI0wPPgtAz8=
 github.com/advancedlogic/GoOse v0.0.0-20210708011750-e3d1acc33807/go.mod h1:f3HCSN1fBWjcpGtXyM119MJgeQl838v6so/PQOqvE1w=
-github.com/timmytune/go-freeling v0.0.0-20190816150524-d4c3d0731524 h1:kBwwhk1JEEGSQeTLSsPQaIdCrJ0Ic6IeslSCpzdQ6Bo=
-github.com/timmytune/go-freeling v0.0.0-20190816150524-d4c3d0731524/go.mod h1:xD5QalIaXPLYEJwmWK7XDJuUTJK7dW/eYu2KRF5Ev80=
 github.com/andybalholm/cascadia v1.0.0 h1:hOCXnnZ5A+3eVDX8pvgl4kofXv2ELss0bKcqRySc45o=
 github.com/andybalholm/cascadia v1.0.0/go.mod h1:GsXiBklL0woXo1j/WYWtSYYC4ouU9PqHO0sqidkEA4Y=
 github.com/araddon/dateparse v0.0.0-20180729174819-cfd92a431d0e h1:s05JG2GwtJMHaPcXDpo4V35TFgyYZzNsmBlSkHPEbeg=
