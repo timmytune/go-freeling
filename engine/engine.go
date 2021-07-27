@@ -7,9 +7,9 @@ import (
 
 	"github.com/cheggaaa/pb"
 
-	"github.com/advancedlogic/go-freeling/nlp"
-	. "github.com/advancedlogic/go-freeling/terminal"
-	"github.com/advancedlogic/go-freeling/wordnet"
+	"github.com/timmytune/go-freeling/nlp"
+	. "github.com/timmytune/go-freeling/terminal"
+	"github.com/timmytune/go-freeling/wordnet"
 )
 
 type Engine struct {
